@@ -2,6 +2,9 @@
 # Home Assistant Add-on: Zigbee2mqtt
 Run [Zigbee2mqtt] as a Home Assistant Add-on
 
+大沙雕测试~~
+
+
 ## Installation
 Add the repository URL under **Supervisor → Add-on store → ⋮ → Manage add-on repositories**:
 
